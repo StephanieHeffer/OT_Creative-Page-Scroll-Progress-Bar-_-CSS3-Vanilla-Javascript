@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=qYFkQa0Bbq0&ab_channel=OnlineTutorials
 
-Esse código CSS e HTML cria uma barra de progresso animada que representa visualmente o quanto a página foi rolada. Vou explicar linha por linha:
+Esse código CSS e HTML cria uma barra de progresso animada que representa visualmente o quanto a página foi rolada.
 
 ### CSS:
 1. `::-webkit-scrollbar`: Estiliza a barra de rolagem do navegador no Chrome.
